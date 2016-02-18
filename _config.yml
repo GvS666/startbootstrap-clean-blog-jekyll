@@ -1,14 +1,12 @@
 # Site settings
-title: Clean Blog
+title: Blog 1.0
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
+copyright_name: Tomasz Jama
+description: "Personal blog of Tomasz Jama - software, hardware and some other random stuff"
+baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+github_username:  GvS666
 email_username:  your-email@yourdomain.com
 
 # Build settings
